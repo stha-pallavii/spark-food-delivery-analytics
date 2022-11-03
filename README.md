@@ -2,6 +2,6 @@
 
 
 ### Click On the respective name to view their contributions
-#### [ Baburam Shrestha]() 
+#### [ Baburam Shrestha](https://github.com/baburam-shrestha/pyspark-zomato) 
 #### [Pallavi Shrestha](https://github.com/stha-pallavii/pyspark-zomato) 
 #### [Pradip Sapkota](https://github.com/pradipsapkotag/pyspark-zomato/tree/pradip)
