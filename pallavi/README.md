@@ -1,6 +1,6 @@
 This branch contains the tasks done by Pallavi Shrestha in the spark project (pyspark-zomato)
 
-#### 1. Folder [data] (https://github.com/stha-pallavii/spark_final_project_zomato/tree/main/pallavi/data)
+#### 1. Folder [data](https://github.com/stha-pallavii/spark_final_project_zomato/tree/main/pallavi/data)
 [Zomato](https://www.kaggle.com/datasets/rishikeshkonapure/zomato?select=zomato.csv) dataset after cleaning
 
 ##### data cleaning code: 
