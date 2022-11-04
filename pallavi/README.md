@@ -9,7 +9,9 @@ This branch contains the tasks done by Pallavi Shrestha in the spark project (py
 #### 2. Folder [presentation_and_diagram](https://github.com/stha-pallavii/spark_final_project_zomato/tree/main/pallavi/presentation_and_diagram)
 [ETL pipeline diagram](https://github.com/stha-pallavii/spark_final_project_zomato/blob/main/pallavi/presentation_and_diagram/ETL_pipeline_diagram.png) prepared for this project.
 
-[Presentation slides](https://github.com/stha-pallavii/spark_final_project_zomato/blob/main/pallavi/presentation_and_diagram/spark_presentation.pptx)
+[Proposal Presentation slides](https://github.com/stha-pallavii/spark_final_project_zomato/blob/main/pallavi/presentation_and_diagram/first_presentation_spark.pdf)
+
+[Final Presentation Slides](https://github.com/stha-pallavii/spark_final_project_zomato/blob/main/pallavi/presentation_and_diagram/first_presentation_spark.pdf)
 
 
 #### 3. Folder [zomato_output_csv](https://github.com/stha-pallavii/spark_final_project_zomato/tree/main/pallavi/zomato_output_csv)
