@@ -1,0 +1,682 @@
+type,location,restaurant list
+Bakery,BTM,"['Sweet Truth', 'Just Bake']"
+Bakery,Banaswadi,['The Gluten Free Baking Co.']
+Bakery,Bannerghatta Road,"[""Amma's Pastries"", 'Bread Crumbs Bakery']"
+Bakery,Basavanagudi,"['Amande Patisserie', 'V B Bakery']"
+Bakery,Frazer Town,"[""Atty's Bakery"", 'The Sugar Fairy', 'Leia Soul Food', 'Patisserie Nitash']"
+Bakery,HBR Layout,"[""Amma's Pastries""]"
+Bakery,HSR,"['Just Bake', 'L J Iyengar Bakery', 'Cake Cafe']"
+Bakery,"ITPL Main Road, Whitefield",['Cakesta']
+Bakery,Indiranagar,['Karachi Bakery']
+Bakery,JP Nagar,"['Bake Addiction', 'Cakewala']"
+Bakery,Jeevan Bhima Nagar,['Just Bake']
+Bakery,Kalyan Nagar,['Just Bake']
+Bakery,Koramangala 1st Block,['Bakingo']
+Bakery,Koramangala 5th Block,['Just Bake']
+Bakery,Malleshwaram,"['Bun World', ""Amma's Pastries""]"
+Bakery,Marathahalli,['CakeZone']
+Bakery,Rajajinagar,['O.G. Variar & Sons']
+Bakery,Whitefield,"['Little Black Choux', 'Just Bake', 'Lemon Krust']"
+"Bakery, Cafe",Indiranagar,['Breadworks']
+"Bakery, Cafe",Kaggadasapura,['House of Torte']
+"Bakery, Cafe",Whitefield,"[""Glen's Bakehouse"", 'Whitefield Baking Company - Bengaluru Marriott Hotel...']"
+"Bakery, Dessert Parlor",Basaveshwara Nagar,['Pavitra Paradise']
+"Bakery, Dessert Parlor",Bellandur,"['Happy Endings', 'Cake Town Cafe']"
+"Bakery, Dessert Parlor",Lavelle Road,['Amande Patisserie']
+"Bakery, Dessert Parlor",Malleshwaram,['La Heaven']
+"Bakery, Dessert Parlor",New BEL Road,['Messy Eats']
+"Bakery, Quick Bites",BTM,"[""Sri Devi Baker's""]"
+"Bakery, Quick Bites",Electronic City,['The French Loaf']
+"Bakery, Quick Bites",Frazer Town,"['The French Loaf', ""Thom's Bakery""]"
+"Bakery, Quick Bites",Indiranagar,['Karachi Bakery']
+"Bakery, Quick Bites",JP Nagar,['Daily Bread']
+"Bakery, Quick Bites",Kammanahalli,['Gold Line Breadz']
+"Bakery, Quick Bites",New BEL Road,['Just Bake']
+Bar,BTM,['Pecos Hideout']
+Bar,Banashankari,['Darbar']
+Bar,Banaswadi,['Knowhere']
+Bar,Electronic City,"['The Chameleon', 'Cedar Bar & Dive - Hotel Presidency', 'Aura - Radha Regent']"
+Bar,HSR,['House Of Commons']
+Bar,"ITPL Main Road, Whitefield",['Chime - Sheraton Grand Bengaluru Whitefield Hotel &...']
+Bar,Indiranagar,"[""Elongo's"", ""Agent Jack's Bar""]"
+Bar,JP Nagar,['55 Wall Street']
+Bar,Kalyan Nagar,"[""Agent Jack's Bar"", 'Bottoms Up Resto Bar']"
+Bar,Koramangala 3rd Block,"[""Sathya's""]"
+Bar,Koramangala 4th Block,['Fill N Chill Resto Bar & Pub']
+Bar,Koramangala 5th Block,['House Of Commons']
+Bar,Koramangala 6th Block,"['The Old Fashioned Bar', 'Banana Beach Bar']"
+Bar,Marathahalli,"['Xtreme Sports Bar', 'BiereKraft']"
+Bar,Nagawara,['One For The Road']
+Bar,New BEL Road,['Black Jack']
+Bar,Old Airport Road,"[""Jeff's - Royal Orchid Hotel"", 'CloudNYN - Sterling Mac Hotel']"
+Bar,Sankey Road,['Dublin - ITC Windsor']
+Bar,St. Marks Road,['Scottish Pub']
+Bar,Whitefield,"['One For The Road', ""Pablo's Gastrobar""]"
+"Bar, Casual Dining",Bellandur,['Tipsy Bull - The Bar Exchange']
+"Bar, Casual Dining",Brigade Road,"['Double Decker', 'Laughing Llama Gastropub']"
+"Bar, Casual Dining",Electronic City,['Shandys-The Beer Cocktail Hub']
+"Bar, Casual Dining",HSR,"['Hammered', 'Hangover', 'Safe House']"
+"Bar, Casual Dining",Indiranagar,"['BTDT? Been There Done That', ""Bob's Bar"", 'Inntense Restobar', 'Barebones - The Balcony Bar', ""BabaYaga's"", 'Hangover', '1131 Bar + Kitchen', 'Nevermind - Bar & Social', 'Tipsy Bull - The Bar Exchange']"
+"Bar, Casual Dining",JP Nagar,['Three Dots & A Dash']
+"Bar, Casual Dining",Koramangala 4th Block,['Sotally Tober']
+"Bar, Casual Dining",Koramangala 5th Block,['The Reservoire']
+"Bar, Casual Dining",Koramangala 7th Block,"[""Fenny's Lounge And Kitchen""]"
+"Bar, Casual Dining",Langford Town,['ThrowBack - Pub & Dine']
+"Bar, Casual Dining",MG Road,['Ging - Royal Orchid Central']
+"Bar, Casual Dining",Malleshwaram,['Alfresco by Bene -Sheraton Grand Bangalore Hotel at...']
+"Bar, Casual Dining",Marathahalli,"['Amber Rush by The Pool', 'Bold']"
+"Bar, Casual Dining",New BEL Road,['Chapter One Bar | Maiin']
+"Bar, Casual Dining",Race Course Road,"['R Bar - Renaissance Hotel, Bengaluru']"
+"Bar, Casual Dining",Rajajinagar,['Jetlag']
+"Bar, Casual Dining",Residency Road,['Sotally Tober']
+"Bar, Casual Dining",Sarjapur Road,['Sarjapur Social']
+"Bar, Casual Dining",St. Marks Road,['Capri Gastrobar']
+"Bar, Lounge",Seshadripuram,['KittyKo']
+"Bar, Lounge",Whitefield,['alt']
+"Bar, Pub",HSR,['Baar Union']
+Beverage Shop,Banashankari,['Frozen Bottle']
+Beverage Shop,Basavanagudi,['Frozen Bottle']
+Beverage Shop,Bellandur,['Shake It Off']
+Beverage Shop,Brookefield,['Frozen Bottle']
+Beverage Shop,Church Street,['Lassi Shop']
+Beverage Shop,HSR,['Frozen Bottle']
+Beverage Shop,Indiranagar,['Frozen Bottle']
+Beverage Shop,JP Nagar,['Shake It Off']
+Beverage Shop,Jayanagar,"['Cool Joint', 'Chai Kraft']"
+Beverage Shop,Jeevan Bhima Nagar,['Sabari Juice Junction']
+Beverage Shop,Kalyan Nagar,"['Frozen Bottle', 'Breezy Cow Bar']"
+Beverage Shop,Koramangala 5th Block,"['Makers of Milkshakes', 'Lassi Shop', 'Frozen Bottle']"
+Beverage Shop,Koramangala 7th Block,['The ThickShake Factory']
+Beverage Shop,Koramangala 8th Block,"['Sri Ganesh Juice Junction', 'Juicemaker']"
+Beverage Shop,Malleshwaram,['Empire Juice Shop']
+Beverage Shop,Marathahalli,"['Chai Point', 'Lassi Corner', 'Makers of Milkshakes']"
+Beverage Shop,Sanjay Nagar,['Patiala Lassi']
+Beverage Shop,Shanti Nagar,['Sreeraj Lassi Bar']
+Beverage Shop,Whitefield,"['Bobacha', 'Arogya Thaana']"
+"Beverage Shop, Cafe",Church Street,['Tata Cha']
+"Beverage Shop, Dessert Parlor",Commercial Street,['Keventers']
+"Beverage Shop, Dessert Parlor","ITPL Main Road, Whitefield",['Keventers']
+"Beverage Shop, Dessert Parlor",Indiranagar,['Keventers']
+"Beverage Shop, Dessert Parlor",JP Nagar,['Keventers']
+"Beverage Shop, Dessert Parlor",Jayanagar,['Keventers']
+"Beverage Shop, Dessert Parlor",Koramangala 5th Block,['Keventers']
+"Beverage Shop, Dessert Parlor",Lavelle Road,['Keventers']
+"Beverage Shop, Dessert Parlor",Malleshwaram,['Keventers']
+"Beverage Shop, Dessert Parlor",Marathahalli,"[""Dock Frost'd""]"
+"Beverage Shop, Dessert Parlor",New BEL Road,['Keventers']
+"Beverage Shop, Dessert Parlor",Sarjapur Road,['Keventers']
+"Beverage Shop, Quick Bites",BTM,['Chai Point']
+"Beverage Shop, Quick Bites",Bannerghatta Road,['Chai Point']
+"Beverage Shop, Quick Bites",Brookefield,['Chai Point']
+"Beverage Shop, Quick Bites",Cunningham Road,['Chai Point']
+"Beverage Shop, Quick Bites",HSR,"['Chai Point', 'Chaai Resto', 'Drunken Monkey']"
+"Beverage Shop, Quick Bites",Indiranagar,['Drunken Monkey']
+"Beverage Shop, Quick Bites",JP Nagar,['Drunken Monkey']
+"Beverage Shop, Quick Bites",Jayanagar,"['Chai Point', 'Drunken Monkey']"
+"Beverage Shop, Quick Bites",Koramangala 1st Block,['ReFresh Juice Junction']
+"Beverage Shop, Quick Bites",Koramangala 5th Block,"['Juice Junction', 'Haji Ali Juice Centre']"
+"Beverage Shop, Quick Bites",Koramangala 6th Block,"['Chai Point', 'Chaai Resto', 'Juice Junction Food Court']"
+"Beverage Shop, Quick Bites",Koramangala 7th Block,['ONE IN A MELON']
+"Beverage Shop, Quick Bites",MG Road,['Chai Point']
+"Beverage Shop, Quick Bites",Marathahalli,"['Lassi Corner', 'Drunken Monkey']"
+"Beverage Shop, Quick Bites",New BEL Road,"['Chai Point', 'Drunken Monkey']"
+"Beverage Shop, Quick Bites",Residency Road,['Chai Point']
+"Beverage Shop, Quick Bites",Whitefield,['Chai Point']
+Cafe,BTM,"['Cafe Orio', 'Bakers Town', 'Mudpipe Cafe', 'De Street Cafe', 'Brewz Coffee', 'PHEW (Play Hard Eat Wild)']"
+Cafe,Banashankari,"['Cafe Shuffle', 'Caf-Eleven', 'T3H Cafe', 'Woodee Pizza', 'The Coffee Shack']"
+Cafe,Banaswadi,['The Sanctuary']
+Cafe,Bannerghatta Road,"['Butterly', '#refuel', 'Kalmane Koffees']"
+Cafe,Basavanagudi,"['Little Cafe', '1980s Games Cafe', 'Cafe Mondo', 'Redberrys']"
+Cafe,Bellandur,"['Cafe Coffee Day', 'Cafe Thulp', 'Cafe Olive', 'The Salad Studio']"
+Cafe,Brigade Road,"['Cafe Coffee Day', 'Trick Or Treat', 'Kalmane Koffees']"
+Cafe,Brookefield,"['Cafe Coffee Day', 'Madouk Cafe', 'An Egg Story']"
+Cafe,Church Street,"['Matteo Coffea', 'Brik Oven', ""Smally's Resto Cafe"", 'BLOW']"
+Cafe,Cunningham Road,['Mudpipe Cafe']
+Cafe,Electronic City,"['Cafe Happytizing', 'Cafe Coffee Day', 'She Brews']"
+Cafe,Frazer Town,"['Sunny Side Bistro', 'Mambos Cafe', 'Loca Moca']"
+Cafe,HSR,"['Grilliez', 'Sector 7 CafÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â©', 'Tea Addict', 'Cafe Coffee Day The Lounge', 'Foodiesthan', 'House Stark Cafe', ""Smally's Resto Cafe"", 'Gold Bean', 'Zee5 Loft', 'Caffe Pascucci', 'That Garage Cafe', 'The Wicked Cup', 'Sector 7 CafÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â©', 'Here & Now']"
+Cafe,Hennur,"['Teapoy Mutiny', 'Avista Cafe Pizzeria']"
+Cafe,Indiranagar,"['Cafe Terra', 'Dhyaana', 'Chai Days', 'Cafe Coffee Day The Lounge', 'Brik Oven', 'House Of Seitan', 'Starbucks', 'Cafe Braqa', 'Sunny Side Bistro', 'Cafe Coffee Day', 'Matteo Coffea', ""J's Cafe"", 'Cross Roads Cafe', 'Tata Cha', 'The Mad Teapot', 'Chai Cafe', ""Eddy's Cafe"", 'Waffle Magic', 'The Teal Door Cafe']"
+Cafe,Infantry Road,['Peppa Zzing']
+Cafe,JP Nagar,"['Slate Cafe', 'Dr. Sheesha', 'Mudpipe Cafe', 'Cuppa', 'Dialogues', 'Pancuzzi', 'Woodee Pizza']"
+Cafe,Jayanagar,"['The Caramelts Cafe', 'Cross Road Cafe', 'Java City', 'Cafe Cosy', 'SlimSins Cafe', 'La Grande Cafe', 'People Tree Cafe', 'The Airos', 'Mug N Bean', 'Grazers', 'Alchemy Coffee Roasters', 'Krazzy Folds']"
+Cafe,Kalyan Nagar,"['Cafe Coffee Day', 'Chaai Resto', 'Cafe Azzure', 'The Roastery', 'Cafe Pink Pajamas', 'An Egg Story']"
+Cafe,Kammanahalli,"['Yomama!!', 'Giselle Resto Cafe']"
+Cafe,Koramangala 1st Block,"['Dreams Cafe - All Day English Food St.', 'Loca Moca']"
+Cafe,Koramangala 2nd Block,"['The Yogisthaan Cafe', 'Fabindia Cafe']"
+Cafe,Koramangala 3rd Block,"['Mr. Beans - Home Cafe', '154 Breakfast Club']"
+Cafe,Koramangala 4th Block,"['Cafe Coffee Day The Lounge', 'Qube Cafe', 'Dialogues', 'Oregano Pizzeria', 'Third Wave Coffee Roasters']"
+Cafe,Koramangala 5th Block,"['Cafe Coffee Day', 'Barista', 'WTF', 'Hungry Hippie', 'YORK St.', 'Market Table', ""Cafe D'hide"", 'Billionaires Cafe', 'Tella Tales', 'Dhuaan', 'Roundup Cafe', 'Fresh Pressery Cafe']"
+Cafe,Koramangala 6th Block,"['Bearfoot Cafe', 'Bundar', 'Entropy Cafe', 'Zee5 Loft', 'Waffle Magic', 'Tattva Cafe']"
+Cafe,Koramangala 7th Block,"['Cafe Coffee Day', 'Vitamin Palace', 'Starbucks', 'Kalmane Koffees']"
+Cafe,Koramangala 8th Block,['Blue Tokai Coffee Roasters']
+Cafe,Kumaraswamy Layout,['Bakers Town']
+Cafe,Lavelle Road,"['Cafe Coffee Day', 'Cafe Coffee Day The Square']"
+Cafe,MG Road,"['The Coffee Bean & Tea Leaf', 'Cafe Azzure']"
+Cafe,Malleshwaram,"['Clean Slate Cafe', 'Kalmane Koffees', ""Stevie's""]"
+Cafe,Marathahalli,['Chai Mania']
+Cafe,New BEL Road,"['Cafe Poetry', 'Cafe Mandala', 'Prana', 'Cafe Coffee Day', 'Kargeens', 'Cafe Centralis', 'Burp', 'Ember The Calabash']"
+Cafe,Old Madras Road,['Jumping Beans']
+Cafe,Residency Road,['Japan Travel Cafe Azuki']
+Cafe,Sarjapur Road,"[""Zoey's"", 'Chaai Resto', 'Sintales', 'Eating Love', 'Cafe At The Atelier']"
+Cafe,Shanti Nagar,['The Courtyard']
+Cafe,St. Marks Road,['Truffles']
+Cafe,Ulsoor,"['Cafe Kaara', 'The Souk', 'Moto Store & CafÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â©', 'Moto Store & CafÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â©', 'KAARA BY THE LAKE', 'Moto Store & CafÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â©', 'Skoolroom', ""Smally's Resto Cafe""]"
+Cafe,Vasanth Nagar,"['Step Right Up', 'The Lobby Lounge - Shangri-La Hotel', 'BanBay']"
+Cafe,Whitefield,"['Cafe Coffee Day', 'Barley & Grapes Cafe', 'Kalmane Koffees', 'Oregano Soul Food', 'Cafesta', 'TherPUP - a Dog Cafe']"
+"Cafe, Bakery",BTM,['Bun Town']
+"Cafe, Bakery",Brookefield,['Breads and Banter']
+"Cafe, Bakery",Indiranagar,['Lazy Suzy']
+"Cafe, Bakery",Koramangala 7th Block,['The Chocolate Room']
+"Cafe, Bakery",Lavelle Road,['The Blackboard Bakery']
+"Cafe, Bakery",MG Road,['Happy Belly Bakes']
+"Cafe, Casual Dining",Banashankari,['San Churro Cafe']
+"Cafe, Casual Dining",HSR,"['Sunny Cafe & Kitchen', 'Tea Villa Cafe', 'Cafe Mondo']"
+"Cafe, Casual Dining",Indiranagar,"['Cafe Max', 'Truffles', 'Crisp Cafe']"
+"Cafe, Casual Dining",Jayanagar,['Tea Villa Cafe']
+"Cafe, Casual Dining",Koramangala 4th Block,['Terra Bites']
+"Cafe, Casual Dining",Koramangala 5th Block,"['Truffles', 'ECHOES Koramangala']"
+"Cafe, Dessert Parlor",Bellandur,['Delitz Creamvilla Cafe']
+"Cafe, Dessert Parlor",Cunningham Road,['Dolci Desserts']
+"Cafe, Dessert Parlor",HSR,['Amour Fine Patisserie']
+"Cafe, Dessert Parlor",Indiranagar,['Lavonne']
+"Cafe, Dessert Parlor",Koramangala 5th Block,['Sixth Avenue Cafe And Patisserie']
+"Cafe, Dessert Parlor",Sarjapur Road,['Creamvilla']
+"Cafe, Dessert Parlor",Vasanth Nagar,['The Culinarium']
+"Cafe, Lounge",Koramangala 3rd Block,['Foxtrot - House of Subculture']
+"Cafe, Quick Bites",Banaswadi,['Patio - The Resto Cafe']
+"Cafe, Quick Bites",JP Nagar,['D View Cafe']
+"Cafe, Quick Bites",Lavelle Road,['Fresh Pressery Cafe']
+Casual Dining,BTM,"['Biryani Pot', 'Sri Vishnu Park', 'Savoury Restaurant', 'Amontron', 'Dilish Kitchens', 'Alankrutha', 'A2B - Adyar Ananda Bhavan', 'Capsicum Family Restaurant', 'Sankranthi Veg Restaurant', 'Savoury - Sea Shell Restaurant', 'New Kabab Plaza', 'Odissi Restaurant', 'El Salver', 'Bathinda Junction', 'Abhiruchi Hotel', 'Fogg', ""AB's - Absolute Barbecues"", 'The Biryani Story', 'C. K. Mega Hot Food', 'Gud Dhani', 'Sai Abhiruchi', '100Ã\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â°C', '36th Cross Coffee Mane', 'Indus Family Restaurant']"
+Casual Dining,Banashankari,"[""Vinny's"", 'Anna Kuteera', 'Spice Elephant', 'Sea Spice by 7 Star']"
+Casual Dining,Banaswadi,"['Noodles', 'Taste Of Nawaabs', 'Tamarind - Tamarind Hospitality', 'Saffron Vegetarian Cuisine', 'Vijaya Gardenia', 'Sri Ruchi Restuarant']"
+Casual Dining,Bannerghatta Road,"[""Galito's"", 'Kundana', 'Status', 'Shanghai Court', 'A2B - Adyar Ananda Bhavan', 'Aramane Restaurant', 'Malhar Maharashtrian Cuisine', 'Sri Bhagya Grand', 'Empire Restaurant', 'Wangs Kitchen', 'Punjabi Times', 'Kabab Treat', ""Dande's Hyderabad Biryani"", 'Marwa Restaurant', 'Chianti']"
+Casual Dining,Basavanagudi,"['House Of Kebabs', 'Upahara Darshini', 'SLV Corner Restaurant', 'Bharjari Oota', 'Baisakhi']"
+Casual Dining,Basaveshwara Nagar,"[""Chichaba's Taj""]"
+Casual Dining,Bellandur,"['Eden Huts Restaurant', ""Chef's Gallery"", 'Punjabi Tadka', 'Basmati Restaurant', 'Al Khansah', 'Manchow', 'Chullah Chandigarh', 'Mast Kalandar', 'Empire Restaurant', 'Spice Garden by Dum Mast Biryani', 'MoMo Cafe - Courtyard by Marriott', 'Blue Berry Restaurant', 'Unico', 'Kava - Fairfield by Marriott', 'Sichuan', 'Health Zingo']"
+Casual Dining,Bommanahalli,['SR Andhra Spicy House']
+Casual Dining,Brigade Road,"['Empire Restaurant', 'Cobaja', 'Kitchen On Table', 'Hae Kum Gang', ""Vinny's"", 'Tempura Restaurant', 'Saatvikk', 'Pizza Hut', 'Baba Da Dhaba']"
+Casual Dining,Brookefield,"['Tandoor Box', 'Shanmukha', 'Dhaba Social', 'Jade', 'South House', 'Amanthrana Gardenia', 'Simhapuri Kitchen', 'North Wale Restaurant', 'Imperio Restaurant']"
+Casual Dining,CV Raman Nagar,['Kunda Biryani']
+Casual Dining,Church Street,"['Oye Amritsar', 'Empire Restaurant', 'Funjabi', 'Coco Grove Beer Cafe', 'Chutney Chang', 'Carnatic', 'Qissa Khawani']"
+Casual Dining,City Market,['B Bhagat Tarachand']
+Casual Dining,Commercial Street,"['Petoo', 'RS Shiv Sagar', 'Shaadi Ki Biryani']"
+Casual Dining,Cunningham Road,"['Red Lantern', 'Rahhams', 'Eden Park']"
+Casual Dining,Electronic City,"['New Food Magic', 'The Big Barbeque', 'Bhukkads', 'Hyderabadi Spice', 'Bangaliana', 'Kritunga Restaurant', 'Sila Restaurant', 'Vms Star Biriyani', 'Biryani Darbar', 'Lobby Cafe - Radha Regent', 'Hyderabad Darbar', 'Pallavi Restaurant', 'Bhojanam Restaurant', 'Varenyam']"
+Casual Dining,Frazer Town,"['Sharief Bhai', 'Empire Restaurant', 'Sheesh Kebab', 'Raidan Restaurant', 'Wangs Kitchen', 'Charminar Kabab Paradise', 'Siddique Kabab Centre', 'Beijing Bites']"
+Casual Dining,HSR,"['Howlin Wolf', 'Parika Multicuisine & Coastal Fine Dine', 'Atithi', 'Birinz', 'Empire Restaurant', 'Bathinda Junction', 'New Delicacy', 'Wangs Kitchen', 'HSR Agarval Bhavan', 'The Buffet Table', 'Al Daaz', 'Broadway - The Gourmet Theatre', 'Punjab Di Shaan', 'Kadal Da Meen', 'Shanmukha', 'Petoo', 'Once Upon A Flame', 'Bangaliana', 'Luo Han', 'Kumarakom', 'The Vape', 'Purnabramha Maharashtrian Restaurant', 'Hotel Junior Kuppanna', 'Sri Udupi Park', 'Aasife & Brothers Biriyani Centre', 'Seven Ate Nine', 'That Garage Cafe', 'Zero Mile Punjab', ""Dragon's Kitchen""]"
+Casual Dining,Hennur,"['Berakah', 'The Second Wife']"
+Casual Dining,"ITPL Main Road, Whitefield","['Chung Wah', 'Shaan-E-Punjab']"
+Casual Dining,Indiranagar,"['Tunday Kababi', 'The Twisted Desi', 'Chinita Real Mexican Food', 'Kobe Sizzlers', 'Empire Restaurant', 'Just Khao Suey', 'Suryawanshi', 'Shaap', 'Barbeque Nation', 'Asaivam Restaurant', 'Meghana Foods', 'Anjappar', 'Southindies', 'Shalimar', 'Thai Chy', 'The Pizza Bakery', 'Sanchez Taqueria & Cantina', 'Maravanthe', 'China Bistro & Lounge', ""Nando's"", 'Danny Lambas Punjabi Dhaba', 'Copper Chimney', 'Salt Mango Tree', 'Imli', 'Taiki', 'Mainland China', 'The Marina', 'Haute', 'Bologna', 'Thai House', 'Peacock', 'Raaga', 'Esplanade', 'Nandhini Paradise', 'Little Orissa Restaurant', 'SantÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â© Spa Cuisine', 'Urban Tamaasha', 'Pot-O-Noodles']"
+Casual Dining,Infantry Road,['Samarkand']
+Casual Dining,JP Nagar,"['Kesariya', ""Mani's Dum Biryani"", 'Danapani', '1441 Pizzeria', 'Petoo', 'Hunger Camp', 'The Jade Kitchen', 'Melt - Eden Park', 'Le Arabia', 'Pizza Hut', 'Beijing Bites', 'The Egg Factory', 'Delhi Ke Bawarchi', 'Empire Restaurant', 'New Prashanth Hotel', 'Inchara', 'Kakal-Kai Ruchi', 'Barbeque Nation', 'Zeeshan', 'Two Friends Cauldron', 'Caffe Pascucci', 'Baba Chatkora', ""Targaryen's Kitchen"", 'Shanthi Sagar']"
+Casual Dining,Jalahalli,['Kadamba Gardenia']
+Casual Dining,Jayanagar,"['Patio 805', 'Sukh Sagar', 'Shanmukha', 'Protein Grillhouse', ""Kapoor's Cafe"", 'City Durbar', 'Cable Car', 'The Yellow Chilli', 'Sea Lions BBQ & Grills', 'Empire Restaurant', 'De Thaali', 'Sri Udupi Food Hub', 'Euki', 'The Trundle', 'Subz', 'Fusion Theory', 'Al-Bek', 'Gufha - The President Hotel', 'Meghana Foods', 'Ugadi', 'Golden Oak - La Marvella Sarovar Premiere Hotel']"
+Casual Dining,Jeevan Bhima Nagar,"[""Mani's Dum Biryani"", 'Chakh Le Foods', 'Mood For Food', 'Coast', 'Sree Spicy Hub', 'Rannaghar']"
+Casual Dining,Kaggadasapura,"['Kitchen Of Joy', 'Royal Biriyani House', 'Hongkong Garden', 'Pait Full']"
+Casual Dining,Kalyan Nagar,"['Khyma Biryani', ""Mani's Dum Biryani"", ""Kapoor's Cafe"", ""Ammi's Biryani"", 'Marakachi', 'Mainland China', 'Aioli', 'Little Italy', 'China Pearl', 'Keto Kitchen', 'Delicacy', 'Hungry Vihaari', 'OvenTreats - Patisserie.Bistro', 'BYLI - Bet You Love It!', 'Zamindar', 'Vera Italiano', ""AB's - Absolute Barbecues"", 'Alibaba Cafe and Restaurant']"
+Casual Dining,Kammanahalli,"[""Connie's Restaurant & Steakhouse"", 'Empire Restaurant', 'Sukh Sagar', 'Hyderabad Biryaani Palace', ""Mahadii's"", 'Savoury Restaurant', 'OKI', 'A2B - Adyar Ananda Bhavan', 'The Mangalorean', 'SS Bucket Biryani', 'Rahhams']"
+Casual Dining,Kanakapura Road,['Malenadu Kitchen']
+Casual Dining,Koramangala 1st Block,"['Punjabi Chulha', 'Punjabi Nawabi', 'Barbeque Nation', 'Koshe Kosha']"
+Casual Dining,Koramangala 2nd Block,['Tangerine - Davanam Sarovar Portico Suites']
+Casual Dining,Koramangala 3rd Block,"['Mustard Food Court', 'Magnolia']"
+Casual Dining,Koramangala 4th Block,"['Pipabu', 'Helloo Delhi', 'PagalKhana', 'Nasi And Mee', 'Pot-O-Noodles', 'Via Milano']"
+Casual Dining,Koramangala 5th Block,"['Sharief Bhai', 'Shanmukha', 'Indian Coffee House & Restaurant', 'Bonsouth', 'Kritunga Restaurant', 'Little Lucknow', 'Big Wong XL', 'Noodle Panda', 'Karama Restaurant', 'Empire Restaurant', 'Hunan', 'Bathinda Junction', 'Boho', 'Wok Paper Scissors', 'Shaap', 'Flavor of Tibet', 'Barbeque Delight', 'Sultans of Spice', 'Desipun', 'Momoz', 'Ulavacharu', 'Meghana Foods', 'Taj Darbar']"
+Casual Dining,Koramangala 6th Block,"['Raj Darbar', ""Hotel Tom's Restaurant"", 'Carrots', 'Cashmere Nites', 'Kaaram']"
+Casual Dining,Koramangala 7th Block,"['Empire Restaurant', 'Smokey Tribe Restaurant', 'Gramin', 'Bangaliana', 'Aalishan Restaurant & Caterer', 'Salt - Indian Restaurant Bar & Grill']"
+Casual Dining,Kumaraswamy Layout,"['Ivy', 'Goa 0 Km', 'Dwaraka Grand', 'The Spice Saga']"
+Casual Dining,Lavelle Road,"['Cafe Noir', 'Cafe Mangii']"
+Casual Dining,MG Road,"['Ebony', 'Dindigul Thalappakatti', 'Foodhall', 'ASEAN - On The Edge', 'Chianti', 'Mamma Mexicana', 'The Tao Terraces']"
+Casual Dining,Majestic,"['Fishland 15', 'Fishland']"
+Casual Dining,Malleshwaram,"['Nesara Mullti - Cuisine Family Dining & Garden...', ""Nando's"", 'Indian Kitchen', 'A2B - Adyar Ananda Bhavan', 'The Green Path - Forgotten Food', 'Mainland China', 'The Asian Curry House', 'Punjab Grill', 'Empire Restaurant', 'Rajdhani Thali Restaurant', 'Cafe Noir', 'Chandus Delux', 'RS Shiv Sagar', 'Hotel Moonlight']"
+Casual Dining,Marathahalli,"['Basmati Bar & Restaurant', 'Spice Affair', 'Kabab Magic', 'The Spice Pavillion', 'Moriz Restaurant', 'Beijing Bites', 'New Tandoori Point', 'Master Chifoo', 'Wangs Kitchen', ""AB's - Absolute Barbecues"", 'The Globe Grub', ""Daniyal's"", ""Nakkala's Food Hunt"", 'The Bahubali', 'Chullah Bhatti', 'Le Jardin By Bhagini', 'Barkaas', 'The Dhaba', 'Anjappaar', ""Off D' Hook"", 'Akshara', 'Yo! Chow', 'Bahar Cafe', 'Sri Udupi Park', 'The Bawarchi', 'MealBox Inc.', 'Village Restaurant', 'Meghana Foods Grand', 'Haveli', 'Golden Rice']"
+Casual Dining,Nagawara,"['Marhaba', 'Punjab Bistro', 'Zamindars Biryani Durbar', 'Zaica Dine & Wine', 'Andhra Biryanis']"
+Casual Dining,New BEL Road,"['The Light House Restaurant', 'Kusum Restaurant', ""Auntie Fung's"", ""D'7 Feast Resto Cafe"", 'A2B - Adyar Ananda Bhavan', 'Freskka', 'Mughlai Azam', 'Mayuri', 'Kaifu', 'AQNI', 'The Egg Factory']"
+Casual Dining,Old Airport Road,"['Shanmukha', 'Sri Udupi Park']"
+Casual Dining,Old Madras Road,['Petoo']
+Casual Dining,RT Nagar,"['Empire Restaurant', 'A2B - Adyar Ananda Bhavan', 'Dil Se Punjabi']"
+Casual Dining,Race Course Road,"['Alampur Bar And Restaurant', 'Lush - Renaissance Hotel, Bengaluru']"
+Casual Dining,Rajajinagar,"['Empire Restaurant', 'Sangam Restaurant', 'Coastal Spice', 'Al-Bek', 'Hotel Kadamba Veg', 'The Purple Pan', 'Swasthi Spice Restaurant', 'Sagar Hotel']"
+Casual Dining,Rammurthy Nagar,"['Tamarind', 'Hotel The Shack']"
+Casual Dining,Residency Road,"['Pashto', 'Nagarjuna', 'Palmgrove', 'Meghana Foods']"
+Casual Dining,Richmond Road,"['Season - Adarsh Hamilton', 'Mahjong Room - WelcomHotel Bengaluru', 'Chaithanya Delicacy', 'Parika Multicuisine Restaurant']"
+Casual Dining,Sadashiv Nagar,['Barbecued - By The Orchard']
+Casual Dining,Sankey Road,['Nandhini Deluxe']
+Casual Dining,Sarjapur Road,"['Vandana Andhra and Multi Cuisine', 'Mughal Treat', 'Savoury Restaurant', 'Taza Tawa', 'Happy House Restaurant', 'Biriyani Bungalow', 'North Met South', 'Kritunga Restaurant', 'Via Milano', 'Sri Vishnu Grand', 'Nayi Dilli by Anand Sweets', ""AB's - Absolute Barbecues"", 'Zeeshan', 'Birbal Darbar', 'Kadala Teera', 'The Hidden Home']"
+Casual Dining,Seshadripuram,"['New Samrat Restaurant', 'Sagar', 'Kwatlay Rest-O-Cafe', 'Sanman']"
+Casual Dining,Shanti Nagar,"['The Bangalore Cafe', 'Red Onion', ""Nagashree's"", 'Rahhams']"
+Casual Dining,Shivajinagar,"['Hamza', 'New Hilal Restaurant']"
+Casual Dining,St. Marks Road,"[""Curry with a 'K' - St. Mark's Hotel"", 'Anna Kuteera', 'No 10 Fort Cochin', 'The Egg Factory']"
+Casual Dining,Thippasandra,['Plantain Leaf']
+Casual Dining,Ulsoor,"['The Bengaluru Brasserie - Hyatt Centric MG Road', ""Mani's Dum Biryani"", 'A2B - Adyar Ananda Bhavan', 'Sagar Delicacy', 'Tasting Room - Bengaluru Oota Company', 'Xpress Biryani']"
+Casual Dining,Uttarahalli,['South Grand']
+Casual Dining,Vijay Nagar,"['Sagar', 'Park View Restaurant']"
+Casual Dining,Whitefield,"['The Punjabi Park', 'New Andhra Chimney', 'Thalassery Restaurant', 'Rivayat', 'Layla - The Den Bengaluru', 'Treat', 'Smoke - The Sizzler House', 'Daily Sushi', 'The Terrace at Windmills Craftworks', 'The Eatery - Four Points by Sheraton Bengaluru', 'Mavalli Tiffin Room (MTR)', 'Pizza Hut', 'Andhra Biryanis', 'The Egg Factory', 'The Hungry Yeti', 'Rajdhani Thali Restaurant', 'The Kim Chi Chef', ""AB's - Absolute Barbecues"", 'Orbis Restaurant', 'Nasi And Mee', 'VIHAR Family Restaurant', 'Elements - Mapple Express', 'Maziga', 'Chefactory Gold by Flechazo', 'You Mee', 'InAzia - Sheraton Grand Bengaluru Whitefield Hotel &...', 'Chin Chin by The Biere Club', 'Tandoor Box', 'Flechazo', 'Sorse', 'Petoo', 'Oota Bangalore', 'Salt Mango Tree', 'The Creek - The Den Bengaluru', 'Mainland China', 'Cafe Noir', 'Flavours Radha Hometel', 'Manbhavan Premium Thali Restaurant', 'Noodle Bar']"
+Casual Dining,Wilson Garden,['Tree Top']
+"Casual Dining, Bar",BTM,"[""3B's - Buddies, Bar & Barbecues""]"
+"Casual Dining, Bar",Bannerghatta Road,"['Nandhana Palace', 'Chavadi', 'Public - The Rooftop Bar And Kitchen']"
+"Casual Dining, Bar",Bellandur,"['Punjabi Times', ""BG's Poolside Bar & Grill""]"
+"Casual Dining, Bar",Brigade Road,"['The Permit Room', 'Desi Deck']"
+"Casual Dining, Bar",Brookefield,"['Brooks 37', 'Zaica Dine & Wine']"
+"Casual Dining, Bar",Church Street,"['20 Feet High', 'Coconut Grove', 'Mainland China']"
+"Casual Dining, Bar",HSR,"['Mishmash', 'TBC Sky Lounge']"
+"Casual Dining, Bar",Indiranagar,"['Nandhana Palace', 'Head O State', 'The Fatty Bao - Asian Gastro Bar', 'Swing', 'Nevermind - Bar & Social', 'Three Dots & A Dash']"
+"Casual Dining, Bar",Infantry Road,['1Q1']
+"Casual Dining, Bar",JP Nagar,['Crumb Together']
+"Casual Dining, Bar",Jayanagar,"['Once Upon a Rooftop', 'Andhra Ruchulu']"
+"Casual Dining, Bar",Kalyan Nagar,"[""Fiddler's Green""]"
+"Casual Dining, Bar",Koramangala 1st Block,['Roots']
+"Casual Dining, Bar",Koramangala 4th Block,"['Nandhana Palace', 'The Fixx']"
+"Casual Dining, Bar",Koramangala 5th Block,"['The Black Pearl', 'Buff Buffet Buff', 'Asia Kitchen By Mainland China']"
+"Casual Dining, Bar",Koramangala 7th Block,"['JukeBox', 'Bombay Adda']"
+"Casual Dining, Bar",Lavelle Road,"['EatWater', 'Matsuri - The Chancery Hotel', 'Tree Tops Bar & Kitchen', 'Fava', 'The Spice Bazaar', 'The Rice Bowl', 'Atomic Lab']"
+"Casual Dining, Bar",MG Road,['White Plate']
+"Casual Dining, Bar",Marathahalli,"['The Black Pearl', 'Dhaba Estd 1986 Delhi', 'Bhagini Kitchen And Bar', 'Sizzling Pasto', ""3B's - Buddies, Bar & Barbecues"", 'The Mint Resto Bar']"
+"Casual Dining, Bar",New BEL Road,['Chin Lung Resto-Bar']
+"Casual Dining, Bar",Rajajinagar,"['White Smoke Barbeque- Fairfield by Marriott', 'Stories']"
+"Casual Dining, Bar",Richmond Road,['Puran da Dhaba - The Pride Hotel']
+"Casual Dining, Bar",Sarjapur Road,"[""The Fisherman's Wharf"", 'Rural Blues']"
+"Casual Dining, Bar",Ulsoor,['The Grill House']
+"Casual Dining, Bar",Whitefield,"['Kava Kitchen & Bar - Fairfield by Marriott', 'Ji Hazoor', 'Bhagini', 'HQ']"
+"Casual Dining, Cafe",Basavanagudi,['Onesta']
+"Casual Dining, Cafe",Basaveshwara Nagar,['Onesta']
+"Casual Dining, Cafe",Electronic City,['Onesta']
+"Casual Dining, Cafe",HSR,"['Blk Plus Wht', 'Onesta']"
+"Casual Dining, Cafe",Indiranagar,['Grubhouse']
+"Casual Dining, Cafe",Jayanagar,['Go Native']
+"Casual Dining, Cafe",Kammanahalli,['Onesta']
+"Casual Dining, Cafe",MG Road,"['CafÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â© Felix', 'CafÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â© Felix', 'CafÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â© Felix', 'Berrylicious Cafe']"
+"Casual Dining, Cafe",Marathahalli,['Onesta']
+"Casual Dining, Cafe",Ulsoor,['Cafe Cassia& Deli']
+"Casual Dining, Cafe",Whitefield,"['Boondock Bistro', 'Onesta', 'Enchanted Garden', 'Beyond Elements']"
+"Casual Dining, Irani Cafee",Lavelle Road,['Soda Bottle Opener Wala']
+"Casual Dining, Lounge",HSR,['Vintage Shack']
+"Casual Dining, Microbrewery",Indiranagar,['The Kebab Room - Restaurant & Brewery']
+"Casual Dining, Pub",Brigade Road,['Plan B']
+"Casual Dining, Pub",Indiranagar,['Plan B']
+"Casual Dining, Pub",JP Nagar,['Bottle Breacher']
+"Casual Dining, Pub",Kalyan Nagar,['Casa De Goa']
+"Casual Dining, Pub",Koramangala 5th Block,"['Beer Adda', 'The Boozy Griffin']"
+"Casual Dining, Pub",Marathahalli,['Plan B']
+"Casual Dining, Pub",Old Airport Road,['Hello Resto-Pub']
+"Casual Dining, Pub",Shanti Nagar,['Plan B']
+Club,Bellandur,['Glassy']
+Club,Brigade Road,['NoLimmits Lounge and Club']
+Delivery,BTM,"['Ovenstory Pizza', 'Late Night', 'Firangi Bake', 'Calorie Express']"
+Delivery,Banashankari,"['Ovenstory Pizza', 'Mojo Pizza - 2X Toppings', 'Firangi Bake', 'FreshMenu']"
+Delivery,Banaswadi,['DinePost9']
+Delivery,Bannerghatta Road,"['Faasos', 'Matka', 'Behrouz Biryani', 'Sweet Truth', 'Ovenstory Pizza', 'Firangi Bake', 'FreshMenu', 'BIB - Breakfast in the Box']"
+Delivery,Basaveshwara Nagar,"[""Navab's""]"
+Delivery,Bellandur,"['Parathabox', 'Fusion Tadka']"
+Delivery,Bommanahalli,['Ovenstory Pizza']
+Delivery,CV Raman Nagar,['Behrouz Biryani']
+Delivery,Central Bangalore,['FreshMenu']
+Delivery,Domlur,"['Indiana Burgers', 'Late Night', 'Potful']"
+Delivery,East Bangalore,"['La-Pizza', 'FreshMenu']"
+Delivery,Ejipura,['Kick Out the Jams']
+Delivery,Electronic City,"['Sweet Truth', 'Behrouz Biryani', ""Insomniac's Delight"", 'Firangi Bake', 'Doof', 'The Breakfast Club']"
+Delivery,Frazer Town,['Belly Deli']
+Delivery,HBR Layout,"['Creamyum', ""Paul's Dum Biryani""]"
+Delivery,HSR,"['Behrouz Biryani', 'Biryani Rooh-e-Khaas', 'Mojo Pizza - 2X Toppings', 'Aligarh House', 'Maa Bhook Lagi', 'Balle-Licious Kitchen', 'Yum Kitchen', 'Rolla Rappa', 'Sweet Truth', 'Ovenstory Pizza', 'Szechuan Dragon', 'BIB - Breakfast in the Box', 'Grow Fit', 'The Paratha Company', 'Biryani Affair']"
+Delivery,Hennur,"['InnerChef', 'Foreign CafÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â©', 'YumYumDilli']"
+Delivery,Hosur Road,"['Faasos', 'Ovenstory Pizza']"
+Delivery,"ITPL Main Road, Whitefield","['Faasos', 'Techies Kitchen']"
+Delivery,Indiranagar,"[""PreRit's Food Factory"", 'Faasos', 'Sweet Truth', 'Firangi Bake', 'PurpleBasil.in', 'FreshMenu', 'The Brekkie Shop']"
+Delivery,JP Nagar,"['Sweet Truth', 'BOX8- Desi Meals', 'Dream a Dozen', 'Biryani Miya']"
+Delivery,Jayanagar,['The Ganache Factory']
+Delivery,Kaggadasapura,['FoodIshq']
+Delivery,Kalyan Nagar,"['Sweet Truth', 'Ovenstory Pizza', 'Biryani Treats']"
+Delivery,Kammanahalli,"['Behrouz Biryani', 'Mojo Pizza - 2X Toppings']"
+Delivery,Koramangala,"['Aligarh House', 'FreshMenu', 'Hunger Hitman']"
+Delivery,Koramangala 1st Block,"['Faasos', 'Sardarji Londonwaley', 'Eatsomnia', ""What'sinaPita"", 'B.M.W - Bhookh Mitaane Wala', 'Potful', 'DinePost9', 'Zangos Grill']"
+Delivery,Koramangala 4th Block,"['Mealer.in', 'Potful', 'Nite Out', 'Biryani Miya', 'Halo Chef', 'The Paratha Company']"
+Delivery,Koramangala 5th Block,['Karahi Kitchen']
+Delivery,Koramangala 6th Block,"['Midnight Mania', 'Grow Fit']"
+Delivery,Koramangala 8th Block,"['Sweet Truth', 'Behrouz Biryani', 'Ovenstory Pizza', 'Firangi Bake']"
+Delivery,Marathahalli,"['Sweet Truth', 'Ovenstory Pizza', 'Chinese Street', 'Mojo Pizza - 2X Toppings', 'Firangi Bake', 'FreshMenu', 'Kolkata Biriyani', 'MealsTree', 'DinePost9', 'Foodism']"
+Delivery,New BEL Road,['Biryani Treats']
+Delivery,North Bangalore,['FreshMenu']
+Delivery,Old Airport Road,"['Le Gateau - The Cake Shop', 'Sweet Truth', 'Moonlight Kitchens', 'Kya Khaoge']"
+Delivery,Rajajinagar,"['Sweet Truth', 'Behrouz Biryani', 'Firangi Bake']"
+Delivery,Rajarajeshwari Nagar,['Firangi Bake']
+Delivery,Residency Road,"['Sweet Truth', 'Behrouz Biryani']"
+Delivery,Richmond Road,['FreshMenu']
+Delivery,Sahakara Nagar,"['Faasos', 'Behrouz Biryani', 'Ovenstory Pizza', 'Firangi Bake']"
+Delivery,Sanjay Nagar,"['Faasos', 'Firangi Bake']"
+Delivery,Sarjapur Road,"['Faasos', 'Sweet Truth', 'Behrouz Biryani', 'Mealer.in', 'Firangi Bake', 'Bonfooder', 'Potful', 'Biryani Miya', 'Shudh', 'The Nosh House']"
+Delivery,South Bangalore,"['FreshMenu', 'Night Bell']"
+Delivery,Thippasandra,['White Olives']
+Delivery,Vasanth Nagar,"['Faasos', 'Behrouz Biryani', 'Ovenstory Pizza']"
+Delivery,West Bangalore,['FreshMenu']
+Delivery,Whitefield,"['Kitchens@Mahadevpura', 'Behrouz Biryani', 'Food Mood', 'Firangi Bake', 'FreshMenu', 'Healthie', 'Potful', 'Maa Bhook Lagi', 'KA53', 'Kerala Tiffin', 'Cupcake Couture', 'Sweet Truth', 'Ovenstory Pizza', 'BIB-Breakfast in the Box', 'ReadyBowl', 'The Paratha Company']"
+Dessert Parlor,BTM,"['Choco Cheese', ""Amma's Pastries"", 'Waffle Stories', ""Pabrai's Fresh and Naturelle Icecreams"", 'XO Belgian Waffle']"
+Dessert Parlor,Banashankari,"['Polar Bear', 'Old Mumbai Ice Cream', 'Waffle-A-Go Go']"
+Dessert Parlor,Banaswadi,['Corner House Ice Cream']
+Dessert Parlor,Bannerghatta Road,"['Apsara Ice Cream', 'Polar Bear', 'Cakebuy', 'Natural Ice Cream', 'Cold Stone Creamery']"
+Dessert Parlor,Basavanagudi,"['Polar Bear', 'XO Belgian Waffle', 'Corner House Ice Cream']"
+Dessert Parlor,Basaveshwara Nagar,"['Rolling Waffles', 'Stoned Monkey', 'Roll Over', 'Natural Ice Cream']"
+Dessert Parlor,Bellandur,"['Polar Bear', 'Smoor', 'Pop Hop']"
+Dessert Parlor,Brigade Road,"[""Pabrai's Fresh & Naturelle Icecreams"", 'Belgian Waffle Factory']"
+Dessert Parlor,Brookefield,['Not Just Waffles']
+Dessert Parlor,Church Street,['99 Pancakes']
+Dessert Parlor,Electronic City,"['Apsara Ice Cream', 'Polar Bear', ""Thanco's Natural Ice Creams""]"
+Dessert Parlor,Frazer Town,"['Cream Chemistry', 'Corner House Ice Cream']"
+Dessert Parlor,HSR,"['Apsara Ice Cream', 'Mumbai Kulfi', 'Bubble Bee', 'Polar Bear', 'Krispy Kreme', 'XO Belgian Waffle', 'Stoned Monkey', ""Pabrai's Fresh & Naturelle Icecreams"", 'Kawaii', 'Corner House Ice Cream', 'Patville', 'Fritz Haber']"
+Dessert Parlor,Indiranagar,"['Krispy Kreme', ""Amma's Pastries"", 'The Waffles Hut', 'Ibaco', 'XO Belgian Waffle', 'Roll Over', 'The Belgian Waffle Co.', 'Corner House Ice Cream', 'Baskin Robbins', 'Troll', 'Stoner']"
+Dessert Parlor,JP Nagar,"['Ice Land', 'Polar Bear', 'Cream Stone', 'Asha Sweets Centre', 'Stoned Monkey', 'Berrylicious']"
+Dessert Parlor,Jayanagar,"['Pop Hop', 'Polar Bear', 'Krispy Kreme', ""Amma's Pastries"", 'Bubblewrap Waffle Co.', 'Ibaco', 'Divina - Eden Park Restaurants', 'The Belgian Waffle Co.', 'Corner House Ice Cream', 'Milano Ice Cream', 'Chocoberry']"
+Dessert Parlor,Kalyan Nagar,"['Polar Bear', 'Krispy Kreme', 'Mugful Of Stories', 'Cream Stone', 'Ibaco', 'Natural Ice Cream', 'Corner House Ice Cream', 'Belgian Waffle Factory']"
+Dessert Parlor,Koramangala 1st Block,"['The Pancake Story', 'Natural Ice Cream']"
+Dessert Parlor,Koramangala 4th Block,['Zero Kelvin']
+Dessert Parlor,Koramangala 5th Block,"['WAFL Co', 'Apsara Ice Cream', 'Niice Cream', 'The Marash', 'XO Belgian Waffle', 'Cream Chemistry', 'The Belgian Waffle Co.', 'Krem', 'Corner House Ice Cream', 'Art of Delight', 'Belgian Waffle Factory']"
+Dessert Parlor,Koramangala 6th Block,"['Polar Bear', 'The Sweet Spot', 'Stoned Monkey', 'Baskin Robbins', 'IceBreakers']"
+Dessert Parlor,Koramangala 7th Block,"['Krispy Kreme', 'Cookie Man', 'Corner House Ice Cream', 'Baskin Robbins', 'Haagen Dazs']"
+Dessert Parlor,Lavelle Road,['Corner House Ice Cream']
+Dessert Parlor,Malleshwaram,"['Polar Bear', 'Krispy Kreme', 'Amrith Ice Cream', 'Roll Over', 'Natural Ice Cream', 'Cold Stone Creamery', 'Gelato Italiano']"
+Dessert Parlor,Marathahalli,"['Polar Bear', 'The Waffcake Legacy', 'Stonelicious', 'Artinci Artisanal Ice Cream', 'Cream Stone', 'Corner House Ice Cream']"
+Dessert Parlor,New BEL Road,"['Polar Bear', 'Cream Stone', 'Stoned Monkey', 'Corner House Ice Cream', 'Absolute Waffles']"
+Dessert Parlor,Old Airport Road,['The Leela Cake Shop - The Leela Palace']
+Dessert Parlor,Race Course Road,"['Cinnamon - Renaissance Hotel, Bengaluru']"
+Dessert Parlor,Rajajinagar,"['Polar Bear', 'Frozenheit?']"
+Dessert Parlor,Residency Road,"['The Belgian Waffle Co.', 'Art of Delight', 'Sweet Chariot Cafe', 'Ganache - The Ritz-Carlton']"
+Dessert Parlor,Richmond Road,"['Krispy Kreme', 'Fabelle Chocolate Boutique - ITC Gardenia']"
+Dessert Parlor,Sankey Road,['Fabelle Chocolate Boutique - ITC Windsor']
+Dessert Parlor,Sarjapur Road,"['Polar Bear', 'XO Belgian Waffle', 'Natural Ice Cream']"
+Dessert Parlor,Seshadripuram,['Mama Mia!']
+Dessert Parlor,St. Marks Road,['The Waffle Press']
+Dessert Parlor,Thippasandra,"[""Amma's Pastries""]"
+Dessert Parlor,Ulsoor,"[""Amma's Pastries""]"
+Dessert Parlor,Vasanth Nagar,['Belgian Waffle Factory']
+Dessert Parlor,Whitefield,"['Artinci Artisanal Ice Cream', 'Cream & Fudge', 'Cold Stone Creamery', 'Mist n Creams']"
+"Dessert Parlor, Bakery",Domlur,['The Ganache Factory']
+"Dessert Parlor, Bakery",Koramangala 4th Block,['Cupcake Noggins']
+"Dessert Parlor, Beverage Shop",BTM,['Waffle Head']
+"Dessert Parlor, Beverage Shop",Indiranagar,['Lassi Shop']
+"Dessert Parlor, Beverage Shop",Jayanagar,['Sreeraj Lassi Bar']
+"Dessert Parlor, Beverage Shop",Kammanahalli,['Sreeraj Lassi Bar']
+"Dessert Parlor, Beverage Shop",Race Course Road,['Sreeraj Lassi Bar']
+"Dessert Parlor, Cafe",Koramangala 5th Block,"['Stoner', '99 Pancakes']"
+"Dessert Parlor, Cafe",Koramangala 8th Block,['Lakeview Milkbar']
+"Dessert Parlor, Cafe",MG Road,['Lakeview Milkbar']
+"Dessert Parlor, Cafe",Old Airport Road,['The Chocolate Heaven']
+"Dessert Parlor, Cafe",Sarjapur Road,['Stoner']
+"Dessert Parlor, Cafe",Whitefield,['Stoner']
+"Dessert Parlor, Kiosk",Whitefield,['Gelato Italiano']
+"Dessert Parlor, Quick Bites",Bannerghatta Road,['World on a Swirl']
+"Dessert Parlor, Quick Bites",Koramangala 5th Block,['Kurtoskalacs']
+"Dessert Parlor, Quick Bites",Koramangala 7th Block,['The Kream Story']
+"Dessert Parlor, Quick Bites",Residency Road,"['WAFL CafÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â©', 'WAFL CafÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â©', 'WAFL CafÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â©']"
+"Dessert Parlor, Quick Bites",Whitefield,['The Chocolate Heaven']
+Fine Dining,Domlur,"['Ministry of Food - Hilton Bangalore Embassy GolfLinks', 'The Salt Grill - Hilton Bangalore Embassy Golflinks']"
+Fine Dining,Electronic City,['Alloro - The Oterra']
+Fine Dining,Lavelle Road,"['Alba - JW Marriott Bengaluru', 'KazÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â©', 'JW Kitchen - JW Marriott Bengaluru']"
+Fine Dining,MG Road,"['Salvadores', 'Yauatcha', 'Polo Club - The Oberoi', 'Rim Naam - The Oberoi', 'Tandoor']"
+Fine Dining,Malleshwaram,"['Feast - Sheraton Grand Bangalore Hotel at Brigade...', 'The Persian Terrace - Sheraton Grand Bangalore Hotel...', 'Bene - Sheraton Grand Bangalore Hotel at Brigade...']"
+Fine Dining,Marathahalli,"['Melange - Radisson Blu', 'The Square - Novotel', 'Blue Terrain - Novotel']"
+Fine Dining,Old Airport Road,['Citrus - The Leela Palace']
+Fine Dining,Race Course Road,"['Masala Klub - The Taj West End', 'Mynt - The Taj West End', 'Blue Ginger - The Taj West End']"
+Fine Dining,Residency Road,"['The Market - The Ritz-Carlton', 'Ithaca - The Chancery Pavilion']"
+Fine Dining,Richmond Road,"['Cubbon Pavilion - ITC Gardenia', 'Ottimo - ITC Gardenia', 'WelcomCafe Jacaranda - WelcomHotel Bengaluru', 'Edo Restaurant & Bar - ITC Gardenia', 'Lotus Pavilion - ITC Gardenia', 'Kebabs & Kurries - ITC Gardenia']"
+Fine Dining,Sankey Road,"['Dakshin - ITC Windsor', 'The Raj Pavilion - ITC Windsor', 'Royal Afghan - ITC Windsor', 'Dum Pukht Jolly Nabobs - ITC Windsor']"
+Fine Dining,Seshadripuram,"['Baluchi - The Lalit Ashok Bangalore', '24/7 - The Lalit Ashok Bangalore', 'OKO - The Lalit Ashok Bangalore']"
+Fine Dining,Vasanth Nagar,"['Caprese - Shangri-La Hotel', 'Yataii - Shangri-La Hotel']"
+Fine Dining,Whitefield,"['Alto Vino - Bengaluru Marriott Hotel Whitefield', 'Whitefield Bar and Grill - Bengaluru Marriott Hotel...', 'Feast - Sheraton Grand Bengaluru Whitefield Hotel &...', 'M Cafe - Bengaluru Marriott Hotel Whitefield']"
+"Fine Dining, Bar",Marathahalli,['Saffron - Radisson Blu']
+"Fine Dining, Bar",Rajajinagar,['Kava - Fairfield by Marriott']
+"Fine Dining, Bar",Residency Road,['Riwaz - The Ritz-Carlton']
+"Fine Dining, Bar",Vasanth Nagar,"['b CafÃ\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â\x83Ã\x83Â\x83Ã\x82Â\x83Ã\x83Â\x82Ã\x82Â\x82Ã\x83Â\x83Ã\x82Â\x82Ã\x83Â\x82Ã\x82Â© - Shangri-La Hotel', 'Ssaffron - Shangri-La Hotel', 'Shang Palace - Shangri-La Hotel']"
+"Fine Dining, Bar",Whitefield,['M Bar - Bengaluru Marriott Hotel Whitefield']
+"Fine Dining, Microbrewery",Lavelle Road,['Spice Terrace - JW Marriott']
+Food Court,Banaswadi,"['Waffle Stories', 'Upsouth', 'WOW! Momo']"
+Food Court,Bannerghatta Road,"['Smoke - The Sizzler House', 'WAFL', 'Kailash Parbat', 'Green Onion']"
+Food Court,Bellandur,['Spice Of Kolkata']
+Food Court,Brigade Road,"['XO Belgian Waffle', 'Burger King']"
+Food Court,Brookefield,"['Andhra Ruchulu', 'Treat']"
+Food Court,Electronic City,"['Petoo', 'Kaaram', 'WOW! Momo']"
+Food Court,"ITPL Main Road, Whitefield","['Hottey Smokey', 'KFC']"
+Food Court,JP Nagar,['The Chocolate Room']
+Food Court,Jayanagar,['Kailash Parbat']
+Food Court,Koramangala 4th Block,['WOW! Momo']
+Food Court,Koramangala 7th Block,"['Shiv Sagar', 'FNC Seafood', 'Malabar Coastal Cuisine', 'Beijing Bites']"
+Food Court,Malleshwaram,"['Oh So Stoned!', 'Marhaba', 'Sukh Sagar Express', 'Mad Over Donuts', 'Kailash Parbat', 'Hotel Halli Nenapu', 'Currylicious', 'Upsouth', 'Dhadoom']"
+Food Court,Marathahalli,"['Mr Manchurian', 'Hind Ka Chulah']"
+Food Court,Nagawara,"['Wangs Kitchen', 'KFC']"
+Food Court,Whitefield,"['Nalaas Aapakadai', 'Tuk-Tuk', 'Bao & Grills', 'Nagas', ""Naga's"", 'Mad Over Donuts', 'Corner House Ice Cream', 'Biryani Kitchen', 'WOW! Momo', 'Purani Dehli', 'Squeez Juice Bar']"
+"Food Court, Quick Bites",Koramangala 7th Block,['Coconadu']
+"Food Court, Quick Bites",Marathahalli,['Pizza Hut']
+"Food Court, Quick Bites",Whitefield,"['Hunan Express', 'KFC']"
+Food Truck,East Bangalore,['S.W.A.T Food Truck']
+Food Truck,South Bangalore,"['As On Fire', 'Om Nom Thai', 'Belly Squad Food Truck']"
+Kiosk,Bannerghatta Road,['Waffle Walle']
+Kiosk,Bellandur,['Chicken Man']
+Kiosk,Electronic City,['Just Shawarma']
+Kiosk,HSR,['EggFactor - Street House']
+Kiosk,Koramangala 5th Block,['Tarbouche']
+Kiosk,Koramangala 6th Block,['Chaat Street']
+Kiosk,Koramangala 7th Block,['Baskin Robbins']
+Kiosk,Lavelle Road,['Pizza Stop']
+Kiosk,MG Road,['The Brekkie Shop']
+Lounge,Church Street,['Hoppipola']
+Lounge,Electronic City,['The Terminus - The Oterra']
+Lounge,HSR,['Vanilla Sky']
+Lounge,Indiranagar,"['Bootlegger', 'Bflat Bar']"
+Lounge,Jayanagar,['The Lounge - Eden Park Restaurants']
+Lounge,Kalyan Nagar,['Hoppipola']
+Lounge,Koramangala 5th Block,"['Drava', 'The Flying Trapeze']"
+Lounge,MG Road,['The 13th Floor']
+Lounge,Marathahalli,['Malties - Radisson Blu']
+Lounge,Race Course Road,['Blue Bar - The Taj West End']
+Lounge,Residency Road,"['The Ritz-Carlton Bar - The Ritz-Carlton', 'Bang - The Ritz-Carlton']"
+Lounge,Seshadripuram,['Sutra - The Lalit Ashok Bangalore']
+Lounge,Ulsoor,['Liquid Lounge - Hyatt Centric MG Road']
+"Lounge, Bar",HSR,['Lounge 189']
+"Lounge, Bar",JP Nagar,['Flow - Terrace Bar & Grill']
+"Lounge, Bar",Vasanth Nagar,['Hype - Shangri-La Hotel']
+"Lounge, Bar",Whitefield,['Amoeba Sports Bar']
+"Lounge, Casual Dining",Bellandur,['W XYZ Bar - Aloft Bengaluru Cessna Business Park']
+"Lounge, Casual Dining",HSR,['Shift']
+"Lounge, Casual Dining",Indiranagar,['LOFT38']
+"Lounge, Casual Dining",Malleshwaram,['High Ultra Lounge']
+"Lounge, Microbrewery",Koramangala 6th Block,['Barleyz']
+Mess,BTM,"[""Jose's Mess"", ""Polamma's Mess""]"
+Mess,Banaswadi,"['The Filter Coffee', 'Sri Durga Nellore Mess']"
+Mess,Indiranagar,['Andal Mess']
+Mess,Kammanahalli,['Sangam Mess']
+Mess,Koramangala 5th Block,['Shree Thali']
+Mess,Malleshwaram,['Iyer Mess']
+Mess,Whitefield,['Abhiruchi Andhra Mess']
+Microbrewery,Electronic City,['46 Ounces Brewgarden']
+Microbrewery,Indiranagar,['Toit']
+Microbrewery,JP Nagar,['The Pump House']
+Microbrewery,Sarjapur Road,['Byg Brewski Brewing Company']
+"Microbrewery, Bar",Koramangala 4th Block,"[""Myu Bar at Gilly's Redefined""]"
+"Microbrewery, Casual Dining",Bannerghatta Road,['The Yellow Submarine']
+"Microbrewery, Casual Dining",Brigade Road,['ShakesBierre']
+"Microbrewery, Casual Dining",JP Nagar,"['Levitate Brewery and Kitchen', 'Brahma Brews']"
+"Microbrewery, Casual Dining",Jayanagar,['Brew Meister']
+"Microbrewery, Casual Dining",Kalyan Nagar,"['Wanderers', 'Float Brewery', 'Brewklyn Microbrewery']"
+"Microbrewery, Casual Dining",Koramangala 4th Block,"[""The Terrace at Gilly's Redefined""]"
+"Microbrewery, Casual Dining",Koramangala 5th Block,"['XOOX Brewmill', 'Simon Says Brew Works']"
+"Microbrewery, Casual Dining",Koramangala 6th Block,['The Bier Library']
+"Microbrewery, Casual Dining",Residency Road,['Alchemy - The Chancery Pavilion']
+"Microbrewery, Casual Dining",Sahakara Nagar,['The Druid Garden']
+"Microbrewery, Casual Dining",Sarjapur Road,"['THE RIG', 'La Casa Brewery And Kitchen']"
+"Microbrewery, Lounge",Residency Road,['Bangalore Brew Works']
+"Microbrewery, Pub",Indiranagar,['Vapour Pub & Brewery']
+"Microbrewery, Pub",Marathahalli,['Brew and Barbeque - A Microbrewery Pub']
+"Microbrewery, Pub",Sarjapur Road,['Vapour Brewpub and Diner']
+"Microbrewery, Pub",Whitefield,"['Windmills Craftworks', 'Red Rhino', 'Biergarten', 'The Pallet']"
+Pub,Banashankari,['Gustoes Beer House']
+Pub,Bannerghatta Road,['Deja Vu Resto Bar']
+Pub,Church Street,['Russh Gastropub']
+Pub,HBR Layout,['FireHouse - Bar & Kitchen']
+Pub,HSR,['Indigo X II P']
+Pub,Indiranagar,"['Tippler', 'Blistering Barnacles', 'Monkey Bar']"
+Pub,Jayanagar,['LIT Gastro Pub']
+Pub,Koramangala 1st Block,['B-hive']
+Pub,Koramangala 4th Block,"['1522 - The Pub', 'The Beer Cafe']"
+Pub,Koramangala 5th Block,"[""What's In A Name"", 'Indigo XP']"
+Pub,Malleshwaram,['The Beer Cafe']
+Pub,Marathahalli,['The Boozy Griffin']
+Pub,Residency Road,['Downtown']
+Pub,Sarjapur Road,['Xtreme Sports Bar']
+Pub,Whitefield,['The Beer Cafe']
+"Pub, Bar",Koramangala 4th Block,['Cheers Pub Bar & Restro']
+"Pub, Bar",Koramangala 5th Block,['Bulls N Bears - Bar Trade Xchange']
+"Pub, Cafe",New BEL Road,['Hammered']
+"Pub, Casual Dining",Basaveshwara Nagar,['Sloshed']
+"Pub, Casual Dining",Brigade Road,['By Chance']
+"Pub, Casual Dining",Brookefield,"[""Gilly's Restobar""]"
+"Pub, Casual Dining",Electronic City,"['Fire Station', ""Gilly's Restobar""]"
+"Pub, Casual Dining",JP Nagar,['Stories']
+"Pub, Casual Dining",Kalyan Nagar,"[""Sherlock's Pub"", 'The Local']"
+"Pub, Casual Dining",Koramangala 5th Block,"[""Sherlock's Pub"", ""Gilly's Restobar""]"
+"Pub, Casual Dining",Koramangala 6th Block,"['The Local - Terrace Drinkery', 'Gorilla Barfare', 'The Local - Burger Bar']"
+"Pub, Casual Dining",MG Road,"[""SkyDeck By Sherlock's""]"
+"Pub, Casual Dining",Marathahalli,"['ANTIGRAVITY', 'Output Bengaluru']"
+"Pub, Casual Dining",New BEL Road,"[""Gilly's Restobar""]"
+"Pub, Microbrewery",Koramangala 4th Block,['Prost Brew Pub']
+"Pub, Microbrewery",Koramangala 5th Block,['Biergarten']
+"Pub, Microbrewery",Old Airport Road,['Big Pitcher']
+"Pub, Microbrewery",Whitefield,"['The Biere Club', 'The Whitefield Arms Pub & Microbrewery']"
+Quick Bites,BTM,"['Kannur Food Point', 'Swad Punjab Da', 'Gorbandh', 'Krishna Sagar', 'Faasos', 'Kesar Sweet Shop and Fast Food', 'Kalingas', 'Just Shawarma', 'Mojo Pizza - 2X Toppings', 'Anda Ka Funda', 'Namana Garden', ""Kapoor's Biriyani"", 'Hungry Lee', 'Kabab Magic', 'Litti Twist', 'Yum In My Tum', 'Paratha Plaza', ""So-Fat's Dosas"", ""Magix's Parattha Roll"", 'Tongue Twisters', 'Kairali', 'Eat N Drink', 'Pappu Chaiwalla', 'Bansuri Sweets', 'Fogg', 'Midnight Mania', 'Habitts', 'Roti Wala', 'Dum Biryani Hub', 'Funky Punjab', 'Apna Punjab', 'Udupi Gokul Cafe', 'Vyanjan', 'Chaatimes', 'Paratha Junction', 'KKR Foodies', 'KFC', 'Mahesh Friends Food Center', 'New Punjabi Hotel', 'Baba Ka Dhaba', 'Royal Biryani Kitchen', 'Tandoor Garden', 'The Biriyani Pedia', 'Sagar Fast Food', 'Pathaan Sir', 'Indori Chatorey', ""McDonald's"", 'Sri Vishnupriya', 'Zeeshan', 'The Shawarma Shop', 'Fillers', 'Ande Ka Funda']"
+Quick Bites,Banashankari,"['Faasos', 'New Sagar Fast Food', 'Taaza Thindi', 'Matru Sagar', 'Utsav', 'KFC', 'Pizza Mane', 'Hotel Mangala', 'Sri Laxmi Venkateshwara Coffee Bar', 'Juicy Momos', 'The Biryani Cafe', 'Kavali', ""Iyer's Tiffin Centre"", 'SLV Swadishta', 'Chatar Patar', 'Messy Bowl', 'Mane Thindi', 'Janahaar', 'Ruchis Point', 'SLV Refreshment', 'Bengaluru Coffee House', 'Addhuri Udupi Bhojana', 'Pizza Stop', 'Foodiction']"
+Quick Bites,Banaswadi,"['Sri Devi Sagar', 'Srinidhi Upachar', 'Donne Biryani Kuteera', 'Pooja Dosa Camp', 'Amigos Kitchen', 'Pizza Stop']"
+Quick Bites,Bannerghatta Road,"['Kanteen The Eatery', 'Faasos', 'Just Shawarma', 'Krishna Kuteera', 'Panchami Garden', 'Oottupura Family Restaurant', 'KFC', 'Bangaliana', ""Shetty's Kitchen"", 'Pizza Hut', 'Burger King', 'Chefeana', 'Shuddh Desi Khana', 'Idly Pidly', 'Nellore Bhojanam', 'California Burrito', 'Cravings', ""McDonald's"", 'Bangalir Rannaghar', 'Purani Dilli By Anand Sweets', 'Ishta Cafe']"
+Quick Bites,Basavanagudi,"['Cool Corner', 'Basavanagudi Mylari', 'Hotel Janatha', 'Udupi Sri Krishna Bhavan', ""Kollapuri's"", 'Cane-O-La', 'Energy Addaa', 'Sandwichwallas', 'Hari Super Sandwich', 'Mavalli Tiffin Room (MTR)', 'Kabab Magic', 'Burger King', 'The Chaat Shop', 'South Kitchen', 'Shree Venkateshwara North Karnataka Hotel', 'New Modern Hotel', 'Twiststick House', 'Karnataka Bhel House', 'Chaatimes', 'Mahalaxmi Tiffin Room', 'KFC', 'New Shanthi Sagar', 'Ice Thunder', 'Vidyarthi Bhavan', 'Harshi Super Sandwich', 'Upahara Darshini', ""McDonald's"", 'Kamat Bugle Rock', 'By 2 Coffee', ""Brahmin's Coffee Bar"", 'Kamat Minerva', 'Pizza Stop']"
+Quick Bites,Basaveshwara Nagar,"[""Papanna's Biriyani"", 'Donne Biriyani Mane', ""McDonald's"", 'KFC', 'MouthFull Of Cake']"
+Quick Bites,Bellandur,"['Faasos', ""Ammi's Biryani"", 'Punjabi Nukkad Pure Veg', 'Udupi Aatithya', 'Mumbai Xpress', 'Phulke Ghar Ke', 'Yummy Tummy', 'Homelicious Food', 'Parrattha Ssinghh', 'Tumbites', 'Deli Chats & Sweets', ""McDonald's"", 'The Kebab House', 'Udupi Ruchi', 'Goli Vada Pav No. 1', 'Biryani Kitchen']"
+Quick Bites,Brigade Road,"['Hatti Kaapi', ""McDonald's"", 'Hotel Ramprasad', 'KFC']"
+Quick Bites,Brookefield,"['Risalo Pizzeria', 'Real Fresh Dosa Corner', 'Tastybites.com', ""McDonald's"", 'Crunchie Corner', 'Mayura Sagar', 'Tall Blonde French', 'Litti House', 'KFC', 'Mayura Grand', 'Aaha', 'Rolls & Bowls', ""M.M.A. Kabab's & Biriyani Center""]"
+Quick Bites,CV Raman Nagar,"[""Mother's Meal"", 'Subway', ""Punjabi's Food Corner"", 'Tiffun']"
+Quick Bites,Church Street,"['The J', 'eat.fit', ""Vasudev Adiga's"", 'Mandarin Box', 'Indian Coffee House']"
+Quick Bites,City Market,['Taj Restaurant']
+Quick Bites,Commercial Street,"['Vishnu Sagar', ""McDonald's"", 'Anand Sweets and Savouries', 'Sagar Chats', 'Khan Saheb Grills and Rolls', 'Burger King']"
+Quick Bites,Cunningham Road,['KFC']
+Quick Bites,Domlur,"[""Rajan's Cafe"", 'Meat And Eat', 'Srinidhi Sagar Deluxe', 'Sri Krishna Sagar', 'Pizza Stop']"
+Quick Bites,Ejipura,"['Punjabi Dhaba', 'Chapati House']"
+Quick Bites,Electronic City,"[""McDonald's Play Place"", 'Faasos', ""Delhi's Essence"", 'Godavari Delights', 'The Daily', 'Parathe Wali Gali', 'Marmaris', 'Hyderabadi Spice', 'Hyderabad Magic', 'KFC', 'Ruchi Sagar', 'Pizza Hut', 'Sanjeevini Veg', 'Empire Restaurant', 'Pizza Republic', 'Pure Punjabi', 'Parampara - The Veg Kitchen', 'King', 'Sri Pillaiyar Bhavan', 'NY Pizza & Waffles', 'Pimento', 'Cafe Palnad', 'Sitara Veg Restaurant', 'Popular Burger', 'BIB - Breakfast in the Box', 'Kolkata Kitchen', 'Indian Food Court']"
+Quick Bites,Frazer Town,"['Komala Refreshments', 'Faasos', 'Pathaan Sir', 'Masala Central', 'Subway', 'KFC', 'Oregano Pizzeria', ""The Mughal's"", 'Fanoos']"
+Quick Bites,HSR,"['Asha Tiffins', 'Faasos', 'Just Shawarma', 'Sri Dalma', 'As On Fire', 'Davanagere Benne Dose', ""Ammi's Biryani"", 'Spicy Kitchen', 'The Rasaganga', 'The Mylapore Cafe', 'Fun Kitchen', 'TRUE BLEU RESTO CAFE', ""Northam's Pizza.Pita"", 'Kabab Magic', 'Khai Khai', 'Cafe Madhura', 'Tharavadu', 'Burger King', 'Paratha Plaza', 'Bangalore Cafe', 'Shiv Shakthi', 'Subway', 'Saahib', 'Mak n Vak - Fyn', 'Charcoal Eats', 'Spice of Andhra', 'Tasty Treat', '#L-81 Cafe', 'The Tandoori Chai', 'Chaat Trail By Moti Mahal', 'Second Wife Cafe', 'South Tiffins', 'Petoo', 'Shree Mithai', 'Kaka-T-Cafe', 'KFC', 'Bihar Ki Shan', 'Kachori Kafe', 'Wow Vada Pav', 'California Burrito', 'Raghavendra Tiffin', ""McDonald's"", 'Moolehatti Donne Biryani Mane', 'Mirch', 'Udupi Palace']"
+Quick Bites,Hennur,"[""Sanky's Burger House"", 'New Udupi Park Deluxe']"
+Quick Bites,Hosur Road,['Litti Twist']
+Quick Bites,"ITPL Main Road, Whitefield","['Pizza Hut', 'Burger King']"
+Quick Bites,Indiranagar,"['Cafe Srinidhi', 'Big Mummy', 'Taco Bell', 'Five Star Chicken', 'Cup Chronicles Cafe', 'Srinidhi Sagar Food Line', 'Kitchen of Joy', 'Burger King', 'Paratha Plaza', 'Peace Restaurant', 'Sethji Home Made Food', 'Leon Grill', 'Five Star Cafe', 'Subway', 'Madurai Idly Shop', 'Dal Roti Sabji', 'Khan Saheb Grills and Rolls', 'Gundappa Donne Biryani', ""Chetty's Coffee"", 'Chillikum', 'The Chennai Express', 'Cita Pani', 'Donne Biriyani Mane', 'Sendhoor Coffee', ""Namdhari's Salad Bar"", 'KFC', 'New Punjabi Hotel', 'Punjabi Khazana', 'Pathaan Sir', ""McDonald's"", 'Yomama!!', 'Donne Biriyani House', 'Fullyfilled', 'Cheesy Juicy Burgers', 'Tayabbs', ""Kylie's""]"
+Quick Bites,Infantry Road,['Nisarga Garden']
+Quick Bites,JP Nagar,"['Faasos', 'Five Star Chicken', 'Momo Jojo', 'Chicken Man', 'Bhukkhad Baba', 'Chaatimes', 'I Cool', 'Mavalli Tiffin Room (MTR)', 'KFC', 'Sri Krishna Sagar', 'Cafe Bollywood', 'White Horse', 'Pizza Hut', 'Paratha Plaza', 'Adithya', 'Waah Biryani', 'Aramane Donne Briyani', 'SLV Restaurant', 'Meat And Eat', 'Pappu Chaiwalla', ""McDonald's"", 'Dakshin Cafe', 'Chaitanya Cafe', 'Kakal-Kai Ruchi', 'Grills & Rolls', 'Bikaner Jn', 'Sree Krishna Kafe']"
+Quick Bites,Jalahalli,['Brahmins Food Corner']
+Quick Bites,Jayanagar,"['Food Springs', 'Rajanna Military Hotel', 'Sri Venkateshwara Sweet Meat Stall', 'Pavithra Restaurant', 'Kabab Magic', ""Kedia's Fun Food"", 'Shree Venkateshwara North Karnataka Hotel', 'Pappu Da Dhaba', ""Sandwich Mama's And Frozen Monster"", 'Rajvardhan Foods', 'The Lassi Park', 'Wahab', 'MDP Coffee House', 'Hatti Kaapi', 'Vijayalakshmi Veg', 'SGS Non Veg - Gundu Pulav', 'Biriyani Mane', 'Kalpavriksha Upahara', 'Chef Master', 'Paratha Junction', 'Davangere Benna Dose Hotel', 'KFC', 'Maiyas', 'Brahmin Tiffins & Coffee', 'Upahara Darshini', ""McDonald's"", 'Halli Jonne Biriyani', 'SL Vadapav', 'The Krishna Grand Xpress', 'Bhavani Chats N Juice', 'Vakulaa Veg Restaurant', 'Ranganna Military Hotel', 'Pizza Stop', 'Vybhava']"
+Quick Bites,Jeevan Bhima Nagar,"['Chandni Chowk 2 Bangalore', 'Spicy Corner', 'No More Hungry', 'Roti Shotti', 'Bhikaram Chandmal Bhujiawala', 'Snacks Joint', 'Taza Tawa', ""Johny's Kitchen"", 'Bharpur Aahar', 'Roll Er Dokaan', 'Red Kitchen']"
+Quick Bites,Kaggadasapura,"['Namma Madurai', 'Coorg Diaries', 'Matka House']"
+Quick Bites,Kalyan Nagar,"['Oye Hoye', 'Donne Biriyani Mane', 'Kesar Sweet Shop And Fast Food', 'Cafe 99 Kerala Mess', 'K.G.N Kabbab Corner', 'American Bites', 'Matru Sagar', 'Mavalli Tiffin Room (MTR)', 'Kanthari', 'The Filter Coffee', 'Food Magic Restaurant', ""Kapoor's Punjabi Rolls"", 'Leon Grill', 'Cafe Nukkad', 'The Juice Shop - Juicery And Kitchen', ""Brahmins' Thatte Idli"", 'Cake House - Story Cafe', 'Goli Vada Pav No. 1', 'Chaat Street', ""Chetty's Coffee"", 'Sikori']"
+Quick Bites,Kammanahalli,"['Faasos', 'Just Shawarma', 'Pathaan Sir', ""McDonald's"", 'Eatapita', 'Anu Momos Chinese Kitchen', 'JS Food Court', 'KFC', 'Kaapikada', 'Cafe Beirut', 'Burger King']"
+Quick Bites,Koramangala 1st Block,"['Chaiwala', 'Delhi Food Point', 'Udupi Upahara', 'Under The Hood', 'Ramji Chaiwale', 'Desi Flavours', 'Chowpatty', 'Aaharam']"
+Quick Bites,Koramangala 3rd Block,['Sagar Fast Food']
+Quick Bites,Koramangala 4th Block,"['Rollin', 'Petoo', ""La Pino'z Pizza"", 'Pizza Stop', 'Paratha Plaza']"
+Quick Bites,Koramangala 5th Block,"['1000 B.C', 'Madeena Hotel', 'Just Shawarma', 'Sonar Bangala', 'Coffee Tea & More', 'Dosa Plaza', 'Kinpeetos', 'Pizza Hut', 'Juicy Momos', 'Paratha Plaza', 'Chaska Bun', 'Potato Bae', 'Leon Grill', 'Tibetan Kitchen', ""McDonald's"", 'Tapri By The Corner', 'Samosa Party', 'Momo Blues', 'Tall Blonde French', 'IDC Kitchen', 'Khawa Karpo']"
+Quick Bites,Koramangala 6th Block,"['Kevins Kitchen', 'Taco Bell', 'The Breakfast Truck', 'Eat Street', 'TOKI Taco House', 'KFC', 'Kota Kachori', 'Mooch Marod', 'Happy Plate', 'Rolls & Co', 'Madurai Idly Shop', 'Mitran Da Junction', 'Indore Eat Restaurant', 'DeliToons', 'Rice and Rolls', 'Podi Idly', 'Delite Chaat House']"
+Quick Bites,Koramangala 7th Block,"['Tenzin Kitchen', 'Laziz Pizza', 'Chai Chowk', 'KFC', 'Nutri Rich', 'Burger King', 'Udupi Grand', ""Friend's Cafe"", 'Pathaan Sir', ""Falafel's - The Lebanese Haus"", 'Meat And Eat', ""McDonald's"", 'Paisa Vasool', 'Yummy Biryani', 'Min Mini Punjabi Dhaba', 'Gundappa Donne Biryani', 'WOW! Momo', 'Tibbs Frankie', 'Ande Ka Funda']"
+Quick Bites,Koramangala 8th Block,"['Faasos', 'Sagar Fast Food', 'Mountain Spice', 'Ghee Positive']"
+Quick Bites,Kumaraswamy Layout,"['Mast Punjabi', 'Just Shawarma', ""Kataria's Pakwan"", 'Desi Dawat', 'Brundhavana Food Point', 'Kitchen Garden', 'Mr. Singh Da Dhaba', 'Roll N Rock']"
+Quick Bites,Lavelle Road,"['Subway', 'Mathsya Darshini']"
+Quick Bites,MG Road,"['The Bundle Co.', 'RR Catering', ""McDonald's"", 'Hotel Ajantha', ""Vasudev Adiga's""]"
+Quick Bites,Magadi Road,['Al Sadique']
+Quick Bites,Majestic,"['Hotel Annapoorna', 'Sangam Sweets', 'Mudde Madappa Mess']"
+Quick Bites,Malleshwaram,"['Hotel Janatha', 'Karavali Lunch Home', 'Asha Food Camp', 'Holige Mane', 'Mumbai Spice', ""Falafel's - The Lebanese Haus"", 'Amrut', 'Veena Stores', 'Malleshwaram Dosa Corner', 'Temple Meals', ""Chetty's Corner"", 'Bhairaveshwara Military Hotel', 'Chaatimes', 'Veg By Nature', 'KFC', 'CTR', 'Pure & Natural', 'Sai Shakti', 'Surya Refreshments', 'New Krishna Bhavan', ""Sri Sai Ram's"", ""Sri Sairam's Chats and Juice"", 'By 2 Coffee', 'Halli Mane', ""Brahmin's Coffee Bar"", 'The Big Bellyz', 'Upsouth', 'Dhanalakshmi Grand']"
+Quick Bites,Marathahalli,"['BITEBOX', 'Faasos', 'Thalassery Restaurant', 'Lassi Corner', ""Ammi's Biryani"", 'Kudil Kerala Kitchen', 'Namak Swad Anusaar', 'Aashish Foods', 'Deli Chats and Sweets', 'Pizza Hut', 'Udupi Grand Veg', 'Sai Foods', 'Leon Grill', 'Kaafi Desi', 'Dil Punjabi', 'Odisha Kitchen', 'Madurai Idly Shop', ""Decker's Lane"", 'The Grilled & Fried', 'HOMMS', 'Sardaar Ka Chulla', 'Petoo', 'Inhouse Burger', 'KFC', 'Bangaliana', 'Parrattha Ssinghh', '9D Foods', 'Aahar Vihar', 'Desi Bites', 'Madurai Idli Dosa Shop', 'Chatora', 'Samosa Singh', 'Zeeshan', 'Delhi Restaurant', 'TBC - The Breakfast Company', 'WOW! Momo', 'Ande Ka Funda']"
+Quick Bites,Nagawara,"['Wok N Roll', 'Matsya Loka', ""McDonald's"", 'Kijiji - Chal Yaha Khate Hai', 'North Indian Bhukkads', 'Kitchen King', 'WOW! Momo', 'Marwari Basa', 'Meghana Biriyanis']"
+Quick Bites,New BEL Road,"['Prashant Naati Corner', 'Just Shawarma', ""Totaram's Paranthas"", 'Mumbai Xpress', 'KFC', 'Eggstacy', 'Leon Grill', 'Delhi Mess', 'Subway', ""McDonald's"", 'Kusum Rolls', 'Roy Hotel & Restaurant', 'Snow Lion Tibet Kitchen', 'Fresh Veg', ""Chetty's Coffee"", 'Doner Bel', 'Shanthi Sagar', 'Pizza Stop']"
+Quick Bites,Old Airport Road,"['Faasos', 'Srinidhi Sagar', 'Sri Udupi Park', 'Andhra Ruchulu', 'Gurukrupa Paratha House', 'Bhookha Sher', 'The Punjabi Bites', 'Zawaa Foods', 'Chatora Singh', 'KFC', 'Ramji Chaiwale', 'New Punjabi Hotel']"
+Quick Bites,Old Madras Road,"['M.M.A Kababs Rolls & Biryani Center', 'WOW! Momo']"
+Quick Bites,RT Nagar,"['Momo Shop', 'Vishnu Garden']"
+Quick Bites,Race Course Road,['Hotel Janardhan']
+Quick Bites,Rajajinagar,"['Hotel Aditya', 'Chick Inn', 'Break Hour', 'Masti Masala']"
+Quick Bites,Residency Road,"['Faasos', 'RS Shiv Sagar Express', 'Sri Udupi Park', 'Rescafe', 'Masala Oota']"
+Quick Bites,Richmond Road,"['Khazana Food Paradise', 'Siddappa Hotel']"
+Quick Bites,Sahakara Nagar,['Cubbonpete Donne Biryani']
+Quick Bites,Sanjay Nagar,"[""Brahmins' Thatte Idli"", 'Ginger', ""Rishi's Paratha Plaza""]"
+Quick Bites,Sarjapur Road,"[""Zoey's"", 'Hyderabadi Biryani Hub', 'Just Shawarma', 'Ajwa Thalassery Biryani', 'Pepperwood', 'Just Yum', 'KFC', 'Kabab Magic', 'Chatori Tongue', 'Le Charcoal Xpress', 'Pizza Hut', 'Dhaba Shaba', 'Paratha Plaza', 'Burger King', 'The Flying Cup', 'Kabab Mandra', 'Sasu Maa Ki Rasoi', 'California Burrito', ""Dad's Cookhouse"", 'Madurai Idly Shop', 'Purani Dilli By Anand Sweets', 'Ice N Fries Cafe']"
+Quick Bites,Seshadripuram,"['Bombay Vada Pav Corner', 'HVR Veg']"
+Quick Bites,Shivajinagar,"[""Indy's Comfort Food""]"
+Quick Bites,St. Marks Road,"['Leon Grill', 'SGS Non Veg - Gundu Pulav', 'KKR FOODIES', 'Northern Route', 'MTR 1924']"
+Quick Bites,Thippasandra,"['Motis Kitchen', 'Faasos', 'Kabab Souq']"
+Quick Bites,Ulsoor,"['Hatti Kaapi', 'Just Shawarma', ""McDonald's"", 'Mummy Dhaba', 'Banchharam', 'Tayabbs', 'Shanthi Sagar', 'Amritsari Kulcha Bite']"
+Quick Bites,"Varthur Main Road, Whitefield",['Desi Khana']
+Quick Bites,Vasanth Nagar,['Pai Vihar']
+Quick Bites,Vijay Nagar,"[""Savji's Roll 'N' Biryani"", 'By 2 Coffee', 'Cafe Udupi Ruchi', 'Gowdru Hotel']"
+Quick Bites,Whitefield,"['Kabab Mirchi', 'Faasos', 'U.P. Dhaba', ""Mother's Food"", 'The Wok Shop', 'Taishty', 'Abhiruchi Restaurant', 'Five Star Chicken', ""Ammi's Biryani"", 'Burger King', 'Udupi Grand', 'Dehati Murgee', 'Mooch Marod', 'Kaka Food Corner', 'Foodishq', 'NYS Kitchen', 'Khan Saheb Grills and Rolls', 'The Grilled & Fried', 'Windy- Taste Of Home', 'Temptation', 'Food Mood', 'Desi Doze', 'Sri Sai Palace', 'New Paratha Corner', ""Mc Donald's"", 'KFC', ""Kartik's Mithai Shoppe"", 'Kabab Mandra', 'Mothi Restaurant', 'nu.tree', 'Vegtaurant', 'Dilli Galli']"
+Quick Bites,Wilson Garden,['Bharathi Refreshments']
+Quick Bites,Yeshwantpur,"['Biriyani Paradise', 'Fish Corner', 'Bhavani Vada Pav', 'Priyadarshini Veg', 'Fishing Boat']"
+"Quick Bites, Bakery",Brigade Road,['Munchies']
+"Quick Bites, Bakery",Malleshwaram,['Maiyas']
+"Quick Bites, Beverage Shop",HSR,"['Snakk That', 'Juicemaker']"
+"Quick Bites, Beverage Shop",Whitefield,['nu.tree']
+"Quick Bites, Cafe",Bannerghatta Road,['Brews N Bites']
+"Quick Bites, Cafe",Whitefield,"[""Biggies Burger 'n' More""]"
+"Quick Bites, Dessert Parlor",BTM,['Laddoos']
+"Quick Bites, Dessert Parlor",Brigade Road,"[""Dunkin' Donuts""]"
+"Quick Bites, Dessert Parlor",Brookefield,"[""Dunkin' Donuts""]"
+"Quick Bites, Dessert Parlor",Electronic City,['Laddoos']
+"Quick Bites, Dessert Parlor",HSR,['The Waffle Street']
+"Quick Bites, Dessert Parlor",Jeevan Bhima Nagar,['Laddoos']
+"Quick Bites, Dessert Parlor",Nagawara,"[""Dunkin' Donuts""]"
+"Quick Bites, Food Court","ITPL Main Road, Whitefield",['Subway']
+"Quick Bites, Food Court",Koramangala 5th Block,['Subway']
+"Quick Bites, Food Court",Malleshwaram,['Subway']
+"Quick Bites, Sweet Shop",BTM,['Laddoos']
+"Quick Bites, Sweet Shop",Bellandur,['Laddoos']
+"Quick Bites, Sweet Shop",Electronic City,['Laddoos']
+"Quick Bites, Sweet Shop",Indiranagar,"[""Kartik's Mithai Shoppe""]"
+"Quick Bites, Sweet Shop",Koramangala 7th Block,['Banchharam']
+"Quick Bites, Sweet Shop",Marathahalli,['Banchharam']
+"Quick Bites, Sweet Shop",Yeshwantpur,['New Agarwal Bhavan']
+Sweet Shop,HSR,"['Sangam Sweets', 'Rusbury Fresh Sweets And Savouries']"
+Sweet Shop,Jayanagar,['Anand Sweets and Savouries']
+Sweet Shop,Koramangala 3rd Block,['Sangam Sweets']
+Sweet Shop,Koramangala 5th Block,['Uday Sweets']
+Sweet Shop,Koramangala 6th Block,['Uday Sweets']
+Sweet Shop,Malleshwaram,['Asha Sweets Centre']
+Sweet Shop,Old Airport Road,['Anand Sweets and Savouries']
+"Sweet Shop, Quick Bites",BTM,"[""Gogula's Sweets & Chats""]"
+"Sweet Shop, Quick Bites",Banaswadi,['Jai Mataji Farshan & Sweets']
+"Sweet Shop, Quick Bites",Basavanagudi,['Sri Venkateshwara Sweet Meat Stall']
+"Sweet Shop, Quick Bites",Basaveshwara Nagar,['Bansuri Sweets']
+"Sweet Shop, Quick Bites",Indiranagar,"['KC Das - Sweet Paradise', 'Asha Sweets Center']"
+"Sweet Shop, Quick Bites",Sarjapur Road,['Anand Sweets And Savouries']
+Takeaway,Indiranagar,['Asha Sweets Center']
+Takeaway,MG Road,['The Brekkie Shop']
+Takeaway,Sahakara Nagar,"['Shree Mahalakshmi Sweets', 'KHOPCHA']"
+Takeaway,Sarjapur Road,['Dosa Time']
+Takeaway,South Bangalore,['Hyderabad Biryaani Home']
+"Takeaway, Delivery",BTM,"['Empire Restaurant', 'BOX8- Desi Meals', 'Mojo Pizza - 2X Toppings', 'Fish Chain', 'The Cheesecake Corner', 'Al-Bek', 'Easy Bites', 'Ghee Biryanis']"
+"Takeaway, Delivery",Banashankari,['BOX8- Desi Meals']
+"Takeaway, Delivery",Banaswadi,"[""Leon's Take Away""]"
+"Takeaway, Delivery",Bannerghatta Road,"['BOX8- Desi Meals', 'Mojo Pizza - 2X Toppings', 'Biryani Durbar', 'Deejas Kitchen']"
+"Takeaway, Delivery",Basaveshwara Nagar,"[""Chawla's 2 Online.com""]"
+"Takeaway, Delivery",Bellandur,"['BOX8- Desi Meals', 'Mojo Pizza - 2X Toppings']"
+"Takeaway, Delivery",Brookefield,['BOX8- Desi Meals']
+"Takeaway, Delivery",Ejipura,['Mid Night Hunting']
+"Takeaway, Delivery",Electronic City,"['BOX8- Desi Meals', ""Fresh 'N' Grills""]"
+"Takeaway, Delivery",Frazer Town,"[""Bozo's Yum Yums"", 'Eat At Nite', ""Sadi's Biriyani""]"
+"Takeaway, Delivery",HSR,"['Mid-Night Crunch', 'Empire Restaurant', 'BOX8- Desi Meals', 'Fish Chain', '56 Bhoga Sweets', 'Dhaba Express', 'Kitchens@HSR', 'Al-Bek', 'The Litti Company']"
+"Takeaway, Delivery","ITPL Main Road, Whitefield","['Mojo Pizza - 2X Toppings', 'Delhi Kitchen']"
+"Takeaway, Delivery",Indiranagar,"['BOX8- Desi Meals', 'Mojo Pizza - 2X Toppings', 'Mota Bawarchi', 'La Madeleine Patisserie']"
+"Takeaway, Delivery",JP Nagar,"['Smoke-A-Pot', 'Fish Chain', 'Mojo Pizza - 2X Toppings', 'Al-Bek', 'Easy Bites', 'Kitchens@JP Nagar', 'Rara Avis']"
+"Takeaway, Delivery",Jeevan Bhima Nagar,"['No More Hungry', 'The Tower Of Pizza']"
+"Takeaway, Delivery",Kaggadasapura,"['Longlive Pizza', 'Agraharam Meal']"
+"Takeaway, Delivery",Kammanahalli,['BOX8- Desi Meals']
+"Takeaway, Delivery",Koramangala 1st Block,"['Truly Punjab', 'Hatti Punjab Di', 'Vegan Heat']"
+"Takeaway, Delivery",Koramangala 4th Block,['Maa Bhook Lagi']
+"Takeaway, Delivery",Koramangala 5th Block,"['Sulemani Chichas', 'BOX8- Desi Meals']"
+"Takeaway, Delivery",Koramangala 6th Block,['Mojo Pizza - 2X Toppings']
+"Takeaway, Delivery",Marathahalli,"['Chatora', 'Wok Steam & Grills', 'Absolute Shawarma']"
+"Takeaway, Delivery",Nagawara,['Foodies Choice']
+"Takeaway, Delivery",New BEL Road,"['BOX8- Desi Meals', 'Mojo Pizza - 2X Toppings']"
+"Takeaway, Delivery",Old Airport Road,"['BOX8- Desi Meals', 'Mojo Pizza - 2X Toppings', 'Stuffd']"
+"Takeaway, Delivery",Rajajinagar,"['Faasos', 'BOX8- Desi Meals', 'Ovenstory Pizza', 'Mojo Pizza - 2X Toppings']"
+"Takeaway, Delivery",Residency Road,"['BOX8- Desi Meals', 'Mojo Pizza - 2X Toppings']"
+"Takeaway, Delivery",Sanjay Nagar,['The Good Bowl']
+"Takeaway, Delivery",Sarjapur Road,['Foodbell']
+"Takeaway, Delivery","Varthur Main Road, Whitefield","['Fish Chain', 'Al-Bek', 'Easy Bites', 'Kitchens@Whitefield']"
+"Takeaway, Delivery",Vasanth Nagar,['Tadkawala']
+"Takeaway, Delivery",Whitefield,"['BOX8- Desi Meals', 'Mojo Pizza - 2X Toppings', 'Chandrika Tiffins', 'Lucky Singh & Co', '4700BC Popcorn']"
